@@ -22,7 +22,8 @@ export default function App() {
             app.
           </p>
           <p>
-            MY CACHE IS BUUUUUSTING 
+            MY CACHE IS BUUUUUSTING AT THE SEAMS! I NEED TO GET RID OF SOME
+            STUFF!
             you may need it where you are going. It will show you how to
             customise your routing, data fetching, and styling with popular
             libraries.
