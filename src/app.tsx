@@ -22,7 +22,7 @@ export default function App() {
             app.
           </p>
           <p>
-            Take MY CACHE BUSTING ENERGY
+            Take MY CACHE IS BUUUUUSTING
             you may need it where you are going. It will show you how to
             customise your routing, data fetching, and styling with popular
             libraries.
