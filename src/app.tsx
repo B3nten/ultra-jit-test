@@ -22,10 +22,7 @@ export default function App() {
             app.
           </p>
           <p>
-            my cache busted
-            you may need it where you are going. It will show you how to
-            customise your routing, data fetching, and styling with popular
-            libraries.
+            This page and it's code was compiled from TypeScript and JSX at request time, and then cached.
           </p>
         </main>
       </body>
