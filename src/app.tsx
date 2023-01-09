@@ -22,7 +22,7 @@ export default function App() {
             app.
           </p>
           <p>
-            This page and it's code was compiled from TypeScript and JSX at request time, and then cached.
+            This page and its code was compiled from TypeScript and JSX at request time, and then cached.
           </p>
         </main>
       </body>
