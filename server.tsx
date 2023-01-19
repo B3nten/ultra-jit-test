@@ -1,5 +1,5 @@
 import { serve } from "https://deno.land/std@0.164.0/http/server.ts";
-import { createServer } from "https://raw.githubusercontent.com/exhibitionist-digital/ultra/jit-esbuild/server.ts";
+import { createServer } from "https://raw.githubusercontent.com/exhibitionist-digital/ultra/jit-sucrase/server.ts";
 import App from "./src/app.tsx";
 
 const server = await createServer({
